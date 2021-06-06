@@ -1,6 +1,6 @@
 {
   "name": "eshop",
-  "version": "16.3.0",
+  "version": "14.x",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
